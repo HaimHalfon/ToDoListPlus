@@ -1,0 +1,38 @@
+* {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 12px;
+}
+
+body,
+body *:not(button):not(.btn):not(.text-reset) {
+	color: #36454f !important;
+}
+
+.card-clickable {
+	cursor: pointer;
+	transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-clickable:hover {
+	background-color: #f1f1f1;
+}
+
+/* עיצוב כללי של פס הגלילה */
+ul::-webkit-scrollbar {
+	width: 2px; /* רוחב הפס */
+}
+
+/* עיצוב הרקע של פס הגלילה */
+ul::-webkit-scrollbar-track {
+	border-radius: 10px;
+}
+
+/* עיצוב ה-thumb (החלק שנע בפס הגלילה) */
+ul::-webkit-scrollbar-thumb {
+	background: #d5dbdb; /* צבע ה-thumb */
+	border-radius: 10px;
+}

@@ -1,0 +1,73 @@
+.custom-w-xxxs {
+	width: 50px;
+}
+
+.custom-w-xxs {
+	width: 100px;
+}
+
+.custom-w-xs {
+	width: 200px;
+}
+
+.custom-w-s {
+	width: 300px;
+}
+
+.custom-w-m {
+	width: 400px;
+}
+
+.custom-w-l {
+	width: 500px;
+}
+
+.custom-w-xl {
+	width: 600px;
+}
+
+.custom-w-xxl {
+	width: 700px;
+}
+
+.custom-w-xxxl {
+	width: 800px;
+}
+
+/******************************/
+
+.custom-h-xxxs {
+	height: 10vh;
+}
+
+.custom-h-xxs {
+	height: 20vh;
+}
+
+.custom-h-xs {
+	height: 30vh;
+}
+
+.custom-h-s {
+	height: 40vh;
+}
+
+.custom-h-m {
+	height: 50vh;
+}
+
+.custom-h-l {
+	height: 60vh;
+}
+
+.custom-h-xl {
+	height: 70vh;
+}
+
+.custom-h-xxl {
+	height: 80vh;
+}
+
+.custom-h-xxxl {
+	height: 90vh;
+}
