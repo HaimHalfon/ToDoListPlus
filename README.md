@@ -31,10 +31,10 @@ The app includes intuitive UI, inline data manipulation, and dynamic interaction
 
 ```bash
 # Clone the repository
-git clone https://github.com/HaimHalfon/to-do-list-plus.git
+git clone https://github.com/HaimHalfon/ToDoListPlus.git
 
 # Navigate into the project folder
-cd to-do-list-plus
+cd ToDoListPlus
 
 # Install dependencies
 npm install
